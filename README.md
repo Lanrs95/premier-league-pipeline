@@ -68,6 +68,13 @@ Consolidar múltiplos datasets da Premier League (times, jogadores, partidas, ev
 
 ---
 
+para executar o pipeline 
+
+python orquestrador.py \
+  --project nice-proposal-467718-q6 \
+  --bucket meu-bucket-premier \
+  --region us-west1
+
 ## 📎 Contato
 
 Allan – [LinkedIn](https://www.linkedin.com/](https://www.linkedin.com/in/allan-ribeiro-312029209/)  
