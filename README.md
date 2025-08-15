@@ -70,5 +70,5 @@ Consolidar múltiplos datasets da Premier League (times, jogadores, partidas, ev
 
 ## 📎 Contato
 
-Allan – [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/allan-ribeiro-312029209/))  
+Allan – [LinkedIn](https://www.linkedin.com/](https://www.linkedin.com/in/allan-ribeiro-312029209/)  
 📧 Email: contato.allan95@gmail.com
