@@ -68,6 +68,11 @@ Consolidar múltiplos datasets da Premier League (times, jogadores, partidas, ev
 
 ---
 
+
+```markdown
+[📂 Abrir dados Bronze (público)](https://storage.googleapis.com/meu-bucket-premier/bronze/arquivo.csv)
+
+
 ## 📎 Contato
 
 Allan – [LinkedIn](https://www.linkedin.com/in/allan-ribeiro-312029209/)  
